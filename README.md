@@ -36,18 +36,23 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier 
 ![WhatsApp Image 2025-12-12 at 15 49 52_5071c392](https://github.com/user-attachments/assets/01781c6e-7dc3-400a-a525-aee340c047c7)
-Bridge rectifier with filter:
+Waveform
+<img width="689" height="354" alt="image" src="https://github.com/user-attachments/assets/b85d9424-d061-4f60-bc51-aaa4d54acbae" />
+TABULAR COLUMN
+|Input Voltage|Output Voltage|
+|---- |----|----------|----------|
+|Vm(V)|t(ms)|Vm(V)|t(ms)|Vm(V)|t(ms)|
+|100|20|100|10|100V,5V|5ms,25ms|
+
+
+
+Full wave recitifier
 ![WhatsApp Image 2025-12-12 at 15 49 18_10e0f18b](https://github.com/user-attachments/assets/b14d49a9-4da7-4ebf-ba93-0a9a60b316ff)
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
-
 WAVEFORM:
-
+<img width="686" height="360" alt="image" src="https://github.com/user-attachments/assets/0200242f-c9b0-4e51-90d4-ff879f73a6aa" />
+TABULAR COLUMN
 
 RESULT:
-
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
