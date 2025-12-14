@@ -37,26 +37,39 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier 
+
 ![WhatsApp Image 2025-12-12 at 15 49 52_5071c392](https://github.com/user-attachments/assets/01781c6e-7dc3-400a-a525-aee340c047c7)
+
 Waveform
+
 <img width="689" height="354" alt="image" src="https://github.com/user-attachments/assets/b85d9424-d061-4f60-bc51-aaa4d54acbae" />
+
 TABULAR COLUMN
+
 ## Tabular Column
 
 | *Input Voltage* |        | *Output Voltage (Without Filter)* |        | *Output Voltage (With Filter)* |        |
 |-------------------|--------|-------------------------------------|--------|----------------------------------|--------|
 | *Vm (V)*        | *t (ms)* | *Vm (V)*                        | *t (ms)* | *Vm (V)*                     | *t (ms)* |
 | 100               | 20     | 100                                 | 10     | 100 V, 5 V                      | 5 ms, 25 ms |
+
 Full wave recitifier
+
 ![WhatsApp Image 2025-12-12 at 15 49 18_10e0f18b](https://github.com/user-attachments/assets/b14d49a9-4da7-4ebf-ba93-0a9a60b316ff)
+
 WAVEFORM:
+
 <img width="686" height="360" alt="image" src="https://github.com/user-attachments/assets/0200242f-c9b0-4e51-90d4-ff879f73a6aa" />
+
 TABULAR COLUMN
+
 ## Tabular Column
 
 | *Input Voltage* |        | *Output Voltage (Without Filter)* |        | *Output Voltage (With Filter)* |        |
 |-------------------|--------|-------------------------------------|--------|----------------------------------|--------|
 | *Vm (V)*        | *t (ms)* | *Vm (V)*                        | *t (ms)* | *Vm (V)*                     | *t (ms)* |
 | 5 0               | 20     | 5 0                                 | 5     | 50   , 46                       | 5 ms, 14 ms |
+
 RESULT:
+
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
