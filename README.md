@@ -41,10 +41,10 @@ Half wave rectifier
 Waveform
 <img width="689" height="354" alt="image" src="https://github.com/user-attachments/assets/b85d9424-d061-4f60-bc51-aaa4d54acbae" />
 TABULAR COLUMN
-|Input Voltage|Output Voltage|
-|---- |----|----------|----------|
-|Vm(V)|t(ms)|Vm(V)|t(ms)|Vm(V)|t(ms)|
-|100|20|100|10|100V,5V|5ms,25ms|
+$$$|Input Voltage|Output Voltage|$$$
+$$$|---- |----|----------|----------|$$$
+$$$|Vm(V)|t(ms)|Vm(V)|t(ms)|Vm(V)|t(ms)|$$$
+$$$|100|20|100|10|100V,5V|5ms,25ms|$$$
 
 
 
